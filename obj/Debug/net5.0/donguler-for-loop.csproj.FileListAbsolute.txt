@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.exe
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.deps.json
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.dll
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.pdb
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.dll
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\refint\donguler-for-loop.dll
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.pdb
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\donguler-for-loop\obj\Debug\net5.0\ref\donguler-for-loop.dll
